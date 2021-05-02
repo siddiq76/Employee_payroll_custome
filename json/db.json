@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Faizzan",
+      "profile": "../assets/Ellipse-3.png",
+      "gender": "Male",
+      "department": "Sales",
+      "salary": "350000",
+      "startdate": "15-Jul-2020",
+      "id": 6
+    },
+    {
+      "profile": "../assets/Ellipse-8.png",
+      "name": "Bhas",
+      "gender": "Male",
+      "department": "Finance",
+      "salary": "400000",
+      "startdate": "17Jul2019",
+      "id": 7
+    }
+  ]
+}
